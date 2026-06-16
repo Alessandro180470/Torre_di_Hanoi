@@ -75,4 +75,4 @@ print(logic_int(0.4))
 #     print('fine blocco')
 # del lista[0]
 # print(lista+[1,2,3,4])
-//La torre di hanoi si sviluppta tramite questa tecnologia di programmazione
+#La torre di hanoi si sviluppta tramite questa tecnologia di programmazione
